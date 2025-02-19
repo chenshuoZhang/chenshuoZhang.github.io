@@ -12,9 +12,9 @@ redirect_from:
     display: inline-block;                /* 设置为行内块级元素 */
     padding: 5px 10px;                    /* 内边距，控制按钮大小 */
     font-size: 14px;                      /* 字体大小 */
-    color: #cccccc;                          /* 文字颜色为深灰色 */
-    background-color: white;              /* 背景颜色为白色 */
-    border: 1px solid #cccccc;               /* 添加灰色边框 */
+    color: #000;                          /* 文字颜色为深灰色 */
+    background-color: #cccccc;              /* 背景颜色为白色 */
+    border: 1px solid #999999;               /* 添加灰色边框 */
     border-radius: 5px;                   /* 圆角效果 */
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* 添加阴影效果 */
     text-decoration: none;                /* 移除下划线 */
@@ -23,7 +23,7 @@ redirect_from:
 }
 
 .btn:hover {
-    background-color: #f0f0f0;            /* 鼠标悬停时背景变为浅灰色 */
+    background-color: #999999;            /* 鼠标悬停时背景变为浅灰色 */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* 鼠标悬停时增强阴影效果 */
 }
 </style>
