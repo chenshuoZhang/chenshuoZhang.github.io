@@ -9,20 +9,22 @@ redirect_from:
 
 <style>
 .btn {
-    display: inline-block;
-    padding: 8px 16px;
-    font-size: 14px;
-    color: white;
-    background-color: #007BFF;
-    border: none;
-    border-radius: 5px;
-    text-decoration: none;
-    cursor: pointer;
-    transition: background-color 0.3s ease;
+    display: inline-block;                /* 设置为行内块级元素 */
+    padding: 6px 12px;                    /* 内边距，控制按钮大小 */
+    font-size: 14px;                      /* 字体大小 */
+    color: #333;                          /* 文字颜色为深灰色 */
+    background-color: white;              /* 背景颜色为白色 */
+    border: 1px solid #ccc;               /* 添加灰色边框 */
+    border-radius: 5px;                   /* 圆角效果 */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* 添加阴影效果 */
+    text-decoration: none;                /* 移除下划线 */
+    cursor: pointer;                      /* 鼠标悬停时显示指针 */
+    transition: background-color 0.3s ease, box-shadow 0.3s ease; /* 平滑过渡效果 */
 }
 
 .btn:hover {
-    background-color: #0056b3;
+    background-color: #f0f0f0;            /* 鼠标悬停时背景变为浅灰色 */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* 鼠标悬停时增强阴影效果 */
 }
 </style>
 
