@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "CN"
 site_theme               : "default"
-title                    : "Welcome to my homepage!"
+title                    : "Welcome to My Homepage!"
 title_separator          : "-"
 name                     : &name "Chenshuo Zhang"
 description              : &description "personal description"
