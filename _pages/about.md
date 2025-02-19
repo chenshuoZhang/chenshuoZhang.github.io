@@ -10,9 +10,9 @@ redirect_from:
 <style>
 .btn {
     display: inline-block;                /* 设置为行内块级元素 */
-    padding: 6px 12px;                    /* 内边距，控制按钮大小 */
+    padding: 5px 10px;                    /* 内边距，控制按钮大小 */
     font-size: 14px;                      /* 字体大小 */
-    color: #333;                          /* 文字颜色为深灰色 */
+    color: #000;                          /* 文字颜色为深灰色 */
     background-color: white;              /* 背景颜色为白色 */
     border: 1px solid #ccc;               /* 添加灰色边框 */
     border-radius: 5px;                   /* 圆角效果 */
