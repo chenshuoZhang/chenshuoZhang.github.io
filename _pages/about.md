@@ -37,4 +37,3 @@ Publications
 ======
 - Xinpeng Liu, Junxuan Liang, **Chenshuo Zhang**, Zixuan Cai, Cewu Lu, Yong-Lu Li. “Homogeneous Dynamics Space for Heterogeneous Human”. arXiv preprint.
   <a href="https://foruck.github.io/HDyS/" class="btn">Project</a>
-  [[Project](https://foruck.github.io/HDyS/)]
