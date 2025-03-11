@@ -35,5 +35,5 @@ My current research interest lies in the field of human motion analysis, leverag
 
 Publications
 ======
-- Xinpeng Liu, Junxuan Liang, **Chenshuo Zhang**, Zixuan Cai, Cewu Lu, Yong-Lu Li. “Homogeneous Dynamics Space for Heterogeneous Human”. arXiv preprint.
+- Xinpeng Liu, Junxuan Liang, **Chenshuo Zhang**, Zixuan Cai, Cewu Lu, Yong-Lu Li. “Homogeneous Dynamics Space for Heterogeneous Human”. CVPR 2025.
   <a href="https://foruck.github.io/HDyS/" class="btn">Project</a>
